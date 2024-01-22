@@ -1,10 +1,13 @@
 This README covers the exploration of the Wine Quality Dataset using advanced machine learning methodologies, focusing on K-Means and Hierarchical Clustering. The dataset consists of 10 numerical columns related to wine attributes. The exploration involves data analysis, outlier removal, visualization, and application of clustering techniques. The goal is to gain insights into wine characteristics and identify clusters with unique chemical compositions.
 
 Dataset
-Source: Wine Quality Dataset
+
+Source: Kaggle
+
 Columns: Fixed Acidity, Volatile Acidity, Citric Acid, Residual Sugar, Chlorides, Free Sulphur Dioxide, Total Sulphur Dioxide, Density, pH, Sulphates
 
 Exploratory Data Analysis
+
 Initial statistics: No missing values, 1599 entries
 Boxplot analysis for outliers detection
 Outlier removal using Inter Quartile Range (IQR)
